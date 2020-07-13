@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springBoot-aop/aop.iml" filepath="$PROJECT_DIR$/springBoot-aop/aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-examples/springBoot-aop/springBoot-aop.iml" filepath="$PROJECT_DIR$/springboot-examples/springBoot-aop/springBoot-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot.iml" filepath="$PROJECT_DIR$/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-examples/springboot-examples.iml" filepath="$PROJECT_DIR$/springboot-examples/springboot-examples.iml" />
+    </modules>
+  </component>
+</project>
