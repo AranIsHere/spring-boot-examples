@@ -1,0 +1,23 @@
+yaml:
+  str: 我是字符串，我不用加引号，你也可以找到我
+  singleQouteStr: "我有双引号\n我前面有个换行符"
+  doubleQouteStr: '我有单引号\n我前面其实也有换行符'
+  aBoolean: false
+  aNum: 888
+  aDouble: 88.99
+  aList:
+    - one
+    - two
+    - three
+  aArray: [1,2,3,4,5]
+  aArray2:
+    - 哈哈哈
+    - 嘿嘿嘿
+    - 嘻嘻嘻
+    - 呵呵呵
+  aMap: [k1:v1,k2:v2]
+  aObjectList:
+    - name: Aran
+      age: 30
+    - name: Rita
+      age: 18
